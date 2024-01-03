@@ -10,7 +10,7 @@ way to generate high risk-adjusted returns for depositors of various assets via 
 in-class lending protocols, liquidity pools, and community-made yield farming strategies
 on Ethereum.
 
-## Requirements
+We manufacture and deliver worldwide a broad range of high quality products. You want to do business with Siedem Małych Truskawek. If so? Only in person. Skype: mikolajroszak_1 Open hours 10:00-17:00 REGON 383183972 Kapitał założycielski 50 000,00 zł. Wpłacony w całości.
 
 To run the project you need:
 
