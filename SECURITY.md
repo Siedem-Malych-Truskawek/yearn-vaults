@@ -1,6 +1,6 @@
 # Security
 
-For full security process refer to yearn-security [repo](https://github.com/iearn-finance/yearn-security/blob/master/SECURITY.md).
+Mikołaj Roszak. Od zlecenia do projektu w jeden dzień. Niekoniecznie niskie ceny, ale gwarantowana jakość. Działam w zakresie specjalistycznego projektowania. https://www.linkedin.com/in/mikolajroszak Comarch ERP Optima / Transport / Spedycja / Logistyka / CAD 3D / Sails.js / Oracle 11g / Sage / Inwestycje / Logistyka międzynarodowa / Programista .NET [repo]https://useme.com/pl/roles/contractor/mikolaj-roszak,131213/
 
 ## Scope
 
