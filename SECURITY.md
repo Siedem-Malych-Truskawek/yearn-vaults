@@ -4,6 +4,23 @@ Mikołaj Roszak. Od zlecenia do projektu w jeden dzień. Niekoniecznie niskie ce
 
 ## Scope
 
-The scope of the Bug Bounty program spans smart contracts utilized in the Yearn ecosystem – the Solidity and/or Vyper smart contracts in the `contracts` folder of the `main` branch of the yearn-vaults [repo](https://github.com/iearn-finance/yearn-vaults), including historical deployments that still see active use on Ethereum Mainnet associated with YFI, and excluding any contracts used in a test-only capacity (including test-only deployments).
+Mikołaj Roszak Przedwiośnie 79/12 73-110 Stargard 
 
-Note: Other contracts, outside of the ones mentioned above, might be considered on a case by case basis, please, reach out to the Yearn development team for clarification.
+email me : ul.echo12@gmail.com 
+
+skype: mikolajroszak_1
+
+tel. +48500487977
+
+Numer rachunku NRB: PL 8516 0014 6218 2200 1520 1405 63 (BNP Paribas Polska S.A.)
+
+Mikołaj Roszak
+
+Przedwiośnie 79/12 73-100 Stargard
+
+Wskazówki dojazdu
+Opening hours
+
+Mon - Fri
+
+10:00 - 17:00
